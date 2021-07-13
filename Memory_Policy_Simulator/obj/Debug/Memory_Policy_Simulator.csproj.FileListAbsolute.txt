@@ -1,0 +1,19 @@
+C:\Users\oswardfish\OneDrive\Workspace\Memory_Policy_Simulator\Memory_Policy_Simulator\bin\Debug\Memory_Policy_Simulator.exe.config
+C:\Users\oswardfish\OneDrive\Workspace\Memory_Policy_Simulator\Memory_Policy_Simulator\bin\Debug\Memory_Policy_Simulator.exe
+C:\Users\oswardfish\OneDrive\Workspace\Memory_Policy_Simulator\Memory_Policy_Simulator\bin\Debug\Memory_Policy_Simulator.pdb
+C:\Users\oswardfish\OneDrive\Workspace\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\oswardfish\OneDrive\Workspace\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.Form1.resources
+C:\Users\oswardfish\OneDrive\Workspace\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.Properties.Resources.resources
+C:\Users\oswardfish\OneDrive\Workspace\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.csproj.GenerateResource.Cache
+C:\Users\oswardfish\OneDrive\Workspace\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.exe
+C:\Users\oswardfish\OneDrive\Workspace\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.pdb
+C:\Users\김민기\Desktop\뺑이\학교자료\3학년 (2020)\1학기\운영체제설계\Memory_Policy_Simulator\Memory_Policy_Simulator\bin\Debug\Memory_Policy_Simulator.exe.config
+C:\Users\김민기\Desktop\뺑이\학교자료\3학년 (2020)\1학기\운영체제설계\Memory_Policy_Simulator\Memory_Policy_Simulator\bin\Debug\Memory_Policy_Simulator.exe
+C:\Users\김민기\Desktop\뺑이\학교자료\3학년 (2020)\1학기\운영체제설계\Memory_Policy_Simulator\Memory_Policy_Simulator\bin\Debug\Memory_Policy_Simulator.pdb
+C:\Users\김민기\Desktop\뺑이\학교자료\3학년 (2020)\1학기\운영체제설계\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.csprojAssemblyReference.cache
+C:\Users\김민기\Desktop\뺑이\학교자료\3학년 (2020)\1학기\운영체제설계\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.Form1.resources
+C:\Users\김민기\Desktop\뺑이\학교자료\3학년 (2020)\1학기\운영체제설계\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.Properties.Resources.resources
+C:\Users\김민기\Desktop\뺑이\학교자료\3학년 (2020)\1학기\운영체제설계\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.csproj.GenerateResource.cache
+C:\Users\김민기\Desktop\뺑이\학교자료\3학년 (2020)\1학기\운영체제설계\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\김민기\Desktop\뺑이\학교자료\3학년 (2020)\1학기\운영체제설계\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.exe
+C:\Users\김민기\Desktop\뺑이\학교자료\3학년 (2020)\1학기\운영체제설계\Memory_Policy_Simulator\Memory_Policy_Simulator\obj\Debug\Memory_Policy_Simulator.pdb
